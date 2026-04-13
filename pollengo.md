@@ -30,19 +30,7 @@
   - We do not sell or share your data with third parties.                                           
   - We do not display ads.                                                                    
   - We do not create a user account. There is no sign-in.                                           
-                                                                                              
-  ## Third-Party Services                                                                           
-                                                                                              
-  - **Open-Meteo** (weather, pollen, air quality, geocoding):                                       
-  [open-meteo.com/en/terms](https://open-meteo.com/en/terms). Receives only coordinates (rounded to
-  ~1 km) or a text search query for address autocomplete.                                           
-  - **Sunrise-Sunset API** (solar times): [sunrise-sunset.org](https://sunrise-sunset.org/).  
-  Receives only coordinates.                                                                        
-  [policies.google.com/privacy](https://policies.google.com/privacy)   
-  - **Google Play Services** (crash reports via Android Vitals):                                    
-  [policies.google.com/privacy](https://policies.google.com/privacy)                          
-                                                                                                    
-  No personal identifier is sent in API requests — only geographic coordinates.               
+                                                                                                         
                                                                                                     
   ## Data Storage & Security                                                                  
                                                                                                     
